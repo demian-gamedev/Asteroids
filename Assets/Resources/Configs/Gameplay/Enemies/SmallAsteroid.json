@@ -1,0 +1,14 @@
+{
+  "type": "SmallAsteroid",
+  "prefabPath": "Prefabs/Enemies/SmallAsteroid",
+  "spawnRate": 0.1,
+  "scoreReward": 10,
+  "stats": {
+    "health": {
+      "Value": 5
+    },
+    "speed": {
+      "Value": 2
+    }
+  }
+}

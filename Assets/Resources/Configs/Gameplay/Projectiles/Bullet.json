@@ -1,0 +1,12 @@
+{
+  "type": "Bullet",
+  "prefabPath": "Prefabs/Projectiles/Bullet",
+  "stats": {
+    "speed": {
+      "Value": 20
+    },
+    "lifetime": {
+      "Value": 1
+    }
+  }
+}

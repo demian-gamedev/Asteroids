@@ -1,0 +1,15 @@
+{
+  "type": "Laser",
+  "prefabPath": "Prefabs/Projectiles/Laser",
+  "stats": {
+    "lifetime": {
+      "Value": 0.2
+    },
+    "speed": {
+      "Value": 0
+    },
+    "pierce": {
+      "Infinite": true
+    } 
+  }
+}
